@@ -1,0 +1,25 @@
+!SESSION 2023-10-22 13:45:58.808 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/juliendaboville/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.cpp.product -keyring /Users/juliendaboville/.eclipse_keyring
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-22 13:47:21.903
+!MESSAGE Indexed 'TP04' (4 sources, 85 headers) in 0,79 sec: 2 031 declarations; 2 364 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-22 13:47:22.122
+!MESSAGE Indexed 'TP03' (2 sources, 78 headers) in 0,218 sec: 1 348 declarations; 1 977 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-22 13:47:22.310
+!MESSAGE Indexed 'TP02' (5 sources, 86 headers) in 0,185 sec: 2 078 declarations; 2 510 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-22 13:47:22.420
+!MESSAGE Indexed 'TP12' (2 sources, 78 headers) in 0,109 sec: 1 348 declarations; 1 977 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-22 13:47:22.538
+!MESSAGE Indexed 'TP01' (3 sources, 79 headers) in 0,116 sec: 1 367 declarations; 2 102 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-10-22 13:47:22.587
+!MESSAGE Indexed 'TP5' (1 sources, 34 headers) in 0,047 sec: 472 declarations; 975 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
